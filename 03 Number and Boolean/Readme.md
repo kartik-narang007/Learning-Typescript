@@ -9,3 +9,11 @@ Now we have already covered String there are two primitive types left to cover a
     it will show all the methods related to the number.
   Now it doesn't matter if i put a decimal behind it .
 
+
+## Boolean
+
+    let isLoggedIn: boolean = false;
+
+if you add a "." after the isLoggedIn you will see a boolean method named "valueOf".
+
+
