@@ -27,7 +27,7 @@ one more syntax to do this is:-
     heroPower.push(2);
 
 
-## pushing aiased type data in array
+## pushing aliased type data in array
 
 you can do this also:-
 
